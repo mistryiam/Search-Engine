@@ -1,0 +1,4 @@
+RandomizedCollection is a data structure that contains a collection of numbers, possibly duplicates (i.e., a multiset). It should support inserting and removing specific elements and also removing a random element.
+Implement the RandomizedCollection class:
+You must implement the functions of the class such that each function works on average O(1) time complexity.
+Note: The test cases are generated such that getRandom will only be called if there is at least one item in the RandomizedCollection.

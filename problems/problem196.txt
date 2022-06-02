@@ -1,0 +1,4 @@
+Given a text filefile.txt, printjust the 10th line of thefile.
+Example:
+Assume that file.txt has the following content:
+Your script should output the tenth line, which is:

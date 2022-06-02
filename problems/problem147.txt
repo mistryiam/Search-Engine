@@ -1,0 +1,3 @@
+Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
+Implement the LRUCache class:
+The functionsgetandputmust each run in O(1) average time complexity.

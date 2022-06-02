@@ -1,0 +1,2 @@
+Let's call an array arr a mountainif the following properties hold:
+Given an integer array arr that is guaranteed to bea mountain, return anyisuch thatarr[0] < arr[1] < ... arr[i - 1] < arr[i] > arr[i + 1] > ... > arr[arr.length - 1].

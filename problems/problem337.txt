@@ -1,0 +1,1 @@
+Given a list of unique words, return all the pairs of thedistinct indices (i, j) in the given list, so that the concatenation of the two wordswords[i] + words[j] is a palindrome.

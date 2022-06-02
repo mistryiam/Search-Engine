@@ -1,0 +1,2 @@
+We define the string s to be the infinite wraparound string of "abcdefghijklmnopqrstuvwxyz", so s will look like this:
+Given a string p, return the number of unique non-empty substrings of p are present in s.

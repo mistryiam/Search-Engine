@@ -1,0 +1,9 @@
+Given a C++ program, remove comments from it. The program source is an array of strings source where source[i] is the ith line of the source code. This represents the result of splitting the original source code string by the newline character '\\n'.
+In C++, there are two types of comments, line comments, and block comments.
+The first effective comment takes precedence over others.
+If a certain line of code is empty after removing comments, you must not output that line: each string in the answer list will be non-empty.
+There will be no control characters, single quote, or double quote characters.
+Also, nothing else such as defines or macros will interfere with the comments.
+It is guaranteed that every open block comment will eventually be closed, so "/*" outside of a line or block comment always starts a new comment.
+Finally, implicit newline characters can be deleted by block comments. Please see the examples below for details.
+After removing the comments from the source code, return the source code in the same format.

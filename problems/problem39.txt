@@ -1,0 +1,4 @@
+The count-and-say sequence is a sequence of digit strings defined by the recursive formula:
+To determine how you "say" a digit string, split it into the minimal number of substrings such that each substring contains exactly one unique digit. Then for each substring, say the number of digits, then say the digit. Finally, concatenate every said digit.
+For example, the saying and conversion for digit string "3322251":
+Given a positive integer n, return the nth term of the count-and-say sequence.

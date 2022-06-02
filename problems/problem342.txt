@@ -1,0 +1,4 @@
+You are given a nested list of integers nestedList. Each element is either an integer or a list whose elements may also be integers or other lists. Implement an iterator to flatten it.
+Implement the NestedIterator class:
+Your code will be tested with the following pseudocode:
+If res matches the expected flattened list, then your code will be judged as correct.

@@ -1,0 +1,2 @@
+We define the usage of capitals in a word to be right when one of the following cases holds:
+Given a string word, return true if the usage of capitals in it is right.

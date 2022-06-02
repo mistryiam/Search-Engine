@@ -1,0 +1,3 @@
+A self-dividing number is a number that is divisible by every digit it contains.
+A self-dividing number is not allowed to contain the digit zero.
+Given two integers left and right, return a list of all the self-dividing numbers in the range [left, right].

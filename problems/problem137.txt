@@ -1,0 +1,2 @@
+Given a non-emptyarray of integers nums, every element appears twice except for one. Find that single one.
+You mustimplement a solution with a linear runtime complexity and useonly constantextra space.

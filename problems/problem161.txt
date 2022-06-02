@@ -1,0 +1,7 @@
+Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
+For example, the following two linked lists begin to intersect at node c1:
+The test cases are generated such that there are no cycles anywhere in the entire linked structure.
+Note that the linked lists must retain their original structure after the function returns.
+Custom Judge:
+The inputs to the judge are given as follows (your program is not given these inputs):
+The judge will then create the linked structure based on these inputs and pass the two heads, headA and headBto your program. If you correctly return the intersected node, then your solution will be accepted.

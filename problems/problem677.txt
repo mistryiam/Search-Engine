@@ -1,0 +1,2 @@
+Design a map that allows you to do the following:
+Implement the MapSum class:

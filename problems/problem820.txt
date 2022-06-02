@@ -1,0 +1,2 @@
+A valid encoding of an array of words is any reference string s and array of indices indices such that:
+Given an array of words, return the length of the shortest reference string s possible of any valid encoding of words.

@@ -1,0 +1,4 @@
+Given a wordlist, we want to implement a spellchecker that converts a query word into a correct word.
+For a given query word, the spell checker handles two categories of spelling mistakes:
+In addition, the spell checker operates under the following precedence rules:
+Given some queries, return a list of words answer, where answer[i] is the correct word for query = queries[i].

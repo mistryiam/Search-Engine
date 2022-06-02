@@ -1,0 +1,2 @@
+The array-form of an integer num is an array representing its digits in left to right order.
+Given num, the array-form of an integer, and an integer k, return the array-form of the integer num + k.
