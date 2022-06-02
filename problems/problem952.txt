@@ -1,0 +1,2 @@
+You are given an integer array of unique positive integers nums. Consider the following graph:
+Return the size of the largest connected component in the graph.

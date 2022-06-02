@@ -1,0 +1,7 @@
+You are given a personal information string s, representing either an email address or a phone number. Return the masked personal information using the below rules.
+Email address:
+An email address is:
+To mask an email:
+Phone number:
+A phone number is formatted as follows:
+To mask a phone number:

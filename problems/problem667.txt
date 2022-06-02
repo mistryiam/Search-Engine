@@ -1,0 +1,2 @@
+Given two integers n and k, construct a list answer that contains n different positive integers ranging from 1 to n and obeys the following requirement:
+Return the list answer. If there multiple valid answers, return any of them.

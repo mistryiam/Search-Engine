@@ -1,0 +1,3 @@
+Design a data structure to store the strings' count with the ability to return the strings with minimum and maximum counts.
+Implement the AllOne class:
+Note that each function must run in O(1) average time complexity.

@@ -1,0 +1,2 @@
+Given a positive integer n,you can apply one of the followingoperations:
+Return the minimum number of operations needed for n to become 1.

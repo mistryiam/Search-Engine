@@ -1,0 +1,3 @@
+A password is considered strong if the below conditions are all met:
+Given a string password, return the minimum number of steps required to make password strong. if password is already strong, return 0.
+In one step, you can:

@@ -1,0 +1,2 @@
+*Premium_Problem* 
+603. Consecutive Available Seats

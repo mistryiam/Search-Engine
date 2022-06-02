@@ -1,0 +1,5 @@
+You are given an array of strings of the same length words.
+In one move, you can swap any two even indexed characters or any two odd indexed characters of a string words[i].
+Two strings words[i] and words[j] are special-equivalent if after any number of moves, words[i] == words[j].
+A group of special-equivalent strings from words is a non-empty subset of words such that:
+Return the number of groups of special-equivalent strings from words.

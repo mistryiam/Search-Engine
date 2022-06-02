@@ -1,0 +1,1 @@
+Consider all the leaves of a binary tree, fromleft to right order, the values of thoseleaves form a leaf value sequence.

@@ -1,0 +1,3 @@
+A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.
+Design an algorithm to insert a new node to a complete binary tree keeping it complete after the insertion.
+Implement the CBTInserter class:

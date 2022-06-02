@@ -1,0 +1,2 @@
+A complex number can be represented as a string on the form "real+imaginaryi" where:
+Given two complex numbers num1 and num2 as strings, return a string of the complex number that represents their multiplications.

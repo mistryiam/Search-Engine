@@ -1,0 +1,3 @@
+Let's define a function countUniqueChars(s) that returns the number of unique characters on s.
+Given a string s, return the sum of countUniqueChars(t) where t is a substring of s.
+Notice that some substrings can be repeated so in this case you have to count the repeated ones too.

@@ -1,0 +1,3 @@
+Design an iterator that supports the peek operation on an existing iterator in addition to the hasNext and the next operations.
+Implement the PeekingIterator class:
+Note: Each language may have a different implementation of the constructor and Iterator, but they all support the int next() and boolean hasNext() functions.

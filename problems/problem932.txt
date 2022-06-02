@@ -1,0 +1,2 @@
+An array nums of length n is beautiful if:
+Given the integer n, return any beautiful array nums of length n. There will be at least one valid answer for the given n.

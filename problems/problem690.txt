@@ -1,0 +1,3 @@
+You have a data structure of employee information, including the employee's unique ID, importance value, and direct subordinates' IDs.
+You are given an array of employees employees where:
+Given an integer id that represents an employee's ID, return the total importance value of this employee and all their direct and indirect subordinates.

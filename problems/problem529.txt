@@ -1,0 +1,4 @@
+Let's play the minesweeper game (Wikipedia, online game)!
+You are given an m x n char matrix board representing the game board where:
+You are also given an integer array click where click = [clickr, clickc] represents the next click position among all the unrevealed squares ('M' or 'E').
+Return the board after revealing this position according to the following rules:

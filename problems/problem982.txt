@@ -1,0 +1,2 @@
+Given an integer array nums, return the number of AND triples.
+An AND triple is a triple of indices (i, j, k) such that:

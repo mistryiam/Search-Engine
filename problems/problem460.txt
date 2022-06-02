@@ -1,0 +1,5 @@
+Design and implement a data structure for a Least Frequently Used (LFU) cache.
+Implement the LFUCache class:
+To determine the least frequently used key, a use counter is maintained for each key in the cache. The key with the smallest use counter is the least frequently used key.
+When a key is first inserted into the cache, its use counter is set to 1 (due to the put operation). The use counter for a key in the cache is incremented either a get or put operation is called on it.
+The functionsgetandputmust each run in O(1) average time complexity.
