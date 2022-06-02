@@ -21,7 +21,7 @@ const PORT = process.env.PORT || 3000;
 //@GET /
 //description: GET request to home page
 app.get("/", (req, res) => {
-  res.render("index3");
+  res.render("index");
 });
 
 app.get('/search', (req, res) => {
